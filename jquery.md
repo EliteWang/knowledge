@@ -1,0 +1,3 @@
+## jquery
+$.when  
+$.trigger
